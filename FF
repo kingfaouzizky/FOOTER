@@ -22,6 +22,7 @@
 		<div id="bottom">
 			<footer id="colophon" role="contentinfo">
 				<div class="content">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2847781645073929"></script>
                     <img src="http://panamericanlanguage.com/es/wp-content/themes/panamerican/images/footer_banner.png" width="940" height="237" style="max-width:100%" border="0" />
 					<?php
 					/**
@@ -59,8 +60,6 @@ var google_remarketing_only = true;
 </script>
 <noscript>
 <div style="display:inline;">
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2847781645073929""></script>
-</script>
 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1066729175/?value=0&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
